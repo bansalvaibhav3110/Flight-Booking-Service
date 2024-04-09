@@ -10,3 +10,4 @@ app.listen(serverConfig.PORT,()=>{
     console.log(`successfully started the server  on port: ${serverConfig.PORT} `);
     logger.info('Succsfully started the server')
 }) 
+console.log("clkdj")
